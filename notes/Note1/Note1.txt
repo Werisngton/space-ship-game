@@ -1,0 +1,6 @@
+Obs. Salva as informações mais importantes no caderno
+
+1 - Criando o Player
+	1.1 - Importando Sprite do Player - FEITO
+	1.2 - Criando Objeto Player - FEITO
+	1.3 - 
