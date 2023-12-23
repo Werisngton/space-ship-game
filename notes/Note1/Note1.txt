@@ -10,5 +10,17 @@ Obs. Salva as informações mais importantes no caderno
 	2.1 - Criando uma viewport e camera para o jogo - FEITO
 	2.2 - Ajustando as dimensões para a view ser grando e o viewport menor - FEITO
 	
-3 - 
+3 - Atirando!
+	3.1 - Importando as sprites do tiro - FEITO
+	3.2 - Criando objeto do tiro - FEITO
+	3.3 - Fazendo tiro ir para cima - FEITO
+	3.4 - Fazer player atirar ao apertar Espaço - FEITO
+	3.5 - Dando um efeito legal para o tiro - FEITO
+		3.5.1 - Fazendo ele nascer grande e depois diminuir - FEITO
+	3.6 - Destruir o tiro ao sair da tela - FEITO
 	
+4 - Criando o primeiro inimigo
+	4.1 - Criar as sprites - FEITO
+	4.2 - Criando o objeto - FEITO
+	4.3 - Fazer ele ir para baixo - FEITO
+	4.4 - 
