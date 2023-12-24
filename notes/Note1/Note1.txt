@@ -46,5 +46,18 @@ Obs. Salva as informações mais importantes no caderno
 	7.4 - Destruindo o tiro do inimigo quando sair da room - FEITO
 	
 8 - Destruindo o inimigo quando ele levar um tiro
-	8.1 - Fazer o tiro do player tbm destruir o inimigo que colidir com ele - 
-	8.2 - 
+	8.1 - Fazer o tiro do player tbm destruir o inimigo que colidir com ele - FEITO
+	8.2 - Fazer com que ao ser destruído o inimigo crie uma explosão - FEITO
+		8.2.1 - Criar a sprite da explosão - FEITO
+		8.2.2 - Criar objeto da explosão - FEITO
+		8.2.3 - Fazer o inimigo instanciar a explosão ao morrer - FEITO
+		8.2.4 - Fazer explosão sumir ao acabar a animação - FEITO
+	
+9 - Pequenos ajustes parte 1
+	9.1 - Fazendo o inimigo ser destruído ao sair da tela - FEITO
+	9.2 - Deixando o background melhor - FEITO
+	9.3 - Deixando o tiro mais bonito - 
+	
+10 - Criando o background do jogo
+	10.1 - Importando o background - FEITO
+	
