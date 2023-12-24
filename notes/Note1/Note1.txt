@@ -23,4 +23,16 @@ Obs. Salva as informações mais importantes no caderno
 	4.1 - Criar as sprites - FEITO
 	4.2 - Criando o objeto - FEITO
 	4.3 - Fazer ele ir para baixo - FEITO
-	4.4 - 
+	
+5 - Fazer enemy_oct atirar
+	5.1 - Importando a sprite do tiro - FEITO
+	5.2 - Criar o objeto do tiro - FEITO
+	5.3 - Fazer o tiro ir para baixo - FEITO
+	5.4 - Atirando de fato - FEITO
+	5.5 - Efeito no tiro do enemy - FEITO
+	
+(Criação de métodos)
+
+6 - Fazendo o tiro do player acertar o inimigo
+	6.1 - Se destruir ao acertar o inimigo - FEITO
+	6.2 - Criar efeito de impacto do tiro do player - 
