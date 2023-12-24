@@ -41,6 +41,7 @@
   },
   "resources": [
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+    {"id":{"name":"spr_vfx_shot_enemy","path":"sprites/spr_vfx_shot_enemy/spr_vfx_shot_enemy.yy",},},
     {"id":{"name":"spr_enemy_oct","path":"sprites/spr_enemy_oct/spr_enemy_oct.yy",},},
     {"id":{"name":"obj_imp_shot","path":"objects/obj_imp_shot/obj_imp_shot.yy",},},
     {"id":{"name":"obj_enemy_oct","path":"objects/obj_enemy_oct/obj_enemy_oct.yy",},},
@@ -48,6 +49,7 @@
     {"id":{"name":"spr_background_x1","path":"sprites/spr_background_x1/spr_background_x1.yy",},},
     {"id":{"name":"spr_shot_enm","path":"sprites/spr_shot_enm/spr_shot_enm.yy",},},
     {"id":{"name":"obj_shot_enm","path":"objects/obj_shot_enm/obj_shot_enm.yy",},},
+    {"id":{"name":"spr_enemy_slm","path":"sprites/spr_enemy_slm/spr_enemy_slm.yy",},},
     {"id":{"name":"spr_vfx_shot","path":"sprites/spr_vfx_shot/spr_vfx_shot.yy",},},
     {"id":{"name":"obj_boom","path":"objects/obj_boom/obj_boom.yy",},},
     {"id":{"name":"spr_background_x2","path":"sprites/spr_background_x2/spr_background_x2.yy",},},
@@ -55,6 +57,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_shot","path":"objects/obj_shot/obj_shot.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"obj_enemy_slm","path":"objects/obj_enemy_slm/obj_enemy_slm.yy",},},
     {"id":{"name":"spr_imp_shot","path":"sprites/spr_imp_shot/spr_imp_shot.yy",},},
     {"id":{"name":"spr_shot","path":"sprites/spr_shot/spr_shot.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
