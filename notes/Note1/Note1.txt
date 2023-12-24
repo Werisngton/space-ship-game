@@ -35,4 +35,16 @@ Obs. Salva as informações mais importantes no caderno
 
 6 - Fazendo o tiro do player acertar o inimigo
 	6.1 - Se destruir ao acertar o inimigo - FEITO
-	6.2 - Criar efeito de impacto do tiro do player - 
+	6.2 - Criar efeito de impacto do tiro do player - FEITO
+	6.3 - Fazendo impacto do tiro desaparecer no final da animação - FEITO
+	6.4 Fazer o tiro não criar o impacto ao sair da room - FEITO
+	
+7 - Fazer o tiro do inimigo acertar o player e ser destruído
+	7.1 - Se destruir ao acertar o player - FEITO
+	7.2 - Criar efeito de impacto do tiro - FEITO
+	7.3 - Fazer impacto sumir ao final da animação - FEITO
+	7.4 - Destruindo o tiro do inimigo quando sair da room - FEITO
+	
+8 - Destruindo o inimigo quando ele levar um tiro
+	8.1 - Fazer o tiro do player tbm destruir o inimigo que colidir com ele - 
+	8.2 - 
