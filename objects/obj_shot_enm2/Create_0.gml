@@ -4,10 +4,6 @@
 // Inherit the parent event
 event_inherited();
 
-side_move = true;
+speed = 6;
 
-atirando = function() {
-	if (y > 0) {
-		instance_create_layer(x, y + sprite_height/3, "Shots", obj_shot_enm2);
-	}
-}
+direction = point_direction(x, y, obj_player.x, obj_player.y);
