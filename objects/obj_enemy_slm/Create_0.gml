@@ -4,6 +4,8 @@
 // Inherit the parent event
 event_inherited();
 
+pontos = 20;
+
 side_move = true;
 
 atirando = function() {

@@ -95,4 +95,23 @@ Obs. Salva as informações mais importantes no caderno
 	12.2 - Criando objeto - FEITO
 	12.3 - Fazendo ele ser filho do tiro 1 - FEITO
 	12.4 - Fazer o tiro ir na direção do player - FEITO
-	12.5 - Apontando o tiro para onde o player esta - 
+	12.5 - Apontando o tiro para onde o player estiver
+		12.5.1 - Fazer o tiro ganhar 90° - FEITO
+	12.6 - Indo na direção do player somente se ele existir - FEITO
+	
+13 - Criação automática dos Enemys
+	13.1 - Fazer com que o objeto control crie inimigos de tempo em tempo - FEITO
+	13.2 - Fazer o X e Y dos Enemys ser aleatório - FEITO
+
+14 - Criando o objeto controlador do jogo
+	14.1 - Ganhando pontos ao destruir o inimigo - 
+	
+15 - Criando o sistema de pontos
+	15.1 - Iniciando a variável pontos - FEITO
+	15.2 - Ganhando pontos ao destruir os inimigos - FEITO
+	15.3 - Rodando o metodo de ganhar pontos se o obj_control existe na room - FEITO
+	15.4 - Fazendo com que inimigos diferentes tenha quantidade de pontos diferentes - FEITO
+	15.5 - Criar uma variável nos inimigos chamada Pontos e ela vai ter quantos pontos eles dão - FEITO
+	
+16 - Criando o sistema de level
+	16.1 - 
